@@ -25,8 +25,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     return generateCityMetadata(city);
 }
 
+// Only pre-render top cities at build time; rest rendered on-demand via ISR
+export const dynamicParams = true;
+export const revalidate = 86400; // 24h ISR
+
 export async function generateStaticParams() {
-    return getAllCitySlugs().map((slug) => ({ slug }));
+    // Pre-render only top 200 cities by population to stay under Vercel 80MB limit
+    const allSlugs = getAllCitySlugs();
+    return allSlugs.slice(0, 200).map((slug) => ({ slug }));
 }
 
 // Deterministic hash for FAQ variant selection

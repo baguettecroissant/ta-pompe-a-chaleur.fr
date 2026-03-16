@@ -16,7 +16,9 @@ export function getCityFromSlug(slug: string): City | undefined {
 }
 
 export function getAllCitySlugs(): string[] {
-    return cities.map(c => c.slug);
+    return [...cities]
+        .sort((a, b) => (b.population || 0) - (a.population || 0))
+        .map(c => c.slug);
 }
 
 export function generateCityMetadata(city: City) {
