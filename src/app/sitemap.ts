@@ -19,10 +19,8 @@ export async function generateSitemaps() {
 }
 
 export default async function sitemap(
-    props: { id: Promise<string> }
+    { id }: { id: number }
 ): Promise<MetadataRoute.Sitemap> {
-    const idStr = await props.id;
-    const id = Number(idStr);
 
     // Sitemap 0: static pages + department pages
     if (id === 0) {
