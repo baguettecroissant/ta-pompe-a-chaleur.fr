@@ -1,0 +1,33 @@
+# Ta-Pompe-a-Chaleur.fr
+
+> Guide indépendant et comparateur de pompes à chaleur en France. Devis gratuits d'installateurs certifiés RGE.
+
+## Pages principales
+
+- Accueil : https://www.ta-pompe-a-chaleur.fr
+- Devis gratuit : https://www.ta-pompe-a-chaleur.fr/devis
+- Guides & Conseils : https://www.ta-pompe-a-chaleur.fr/guides
+- Comparatif Marques : https://www.ta-pompe-a-chaleur.fr/marques
+- Annuaire installateurs : https://www.ta-pompe-a-chaleur.fr/annuaire
+- FAQ : https://www.ta-pompe-a-chaleur.fr/faq
+
+## Guides populaires
+
+- Comment fonctionne une PAC : https://www.ta-pompe-a-chaleur.fr/guides/fonctionnement-pompe-a-chaleur
+- Prix PAC 2026 : https://www.ta-pompe-a-chaleur.fr/guides/prix-pompe-a-chaleur
+- MaPrimeRénov' 2026 : https://www.ta-pompe-a-chaleur.fr/guides/maprimenov-pompe-a-chaleur
+- PAC Air-Eau vs Air-Air : https://www.ta-pompe-a-chaleur.fr/guides/pac-air-eau-vs-air-air
+- Installation PAC : https://www.ta-pompe-a-chaleur.fr/guides/installation-pompe-a-chaleur-etapes
+- Entretien obligatoire : https://www.ta-pompe-a-chaleur.fr/guides/entretien-pompe-a-chaleur-obligations
+- Meilleure PAC 2026 : https://www.ta-pompe-a-chaleur.fr/guides/meilleure-pompe-a-chaleur
+- RE2025 et PAC : https://www.ta-pompe-a-chaleur.fr/guides/re2025-pompe-a-chaleur
+
+## Marques comparées
+
+- Daikin : https://www.ta-pompe-a-chaleur.fr/marques/daikin
+- Atlantic : https://www.ta-pompe-a-chaleur.fr/marques/atlantic
+- Mitsubishi Electric : https://www.ta-pompe-a-chaleur.fr/marques/mitsubishi
+
+## À propos
+
+Ta-Pompe-a-Chaleur.fr est un service gratuit qui met en relation les particuliers avec des installateurs de pompes à chaleur certifiés RGE. Le site propose des guides détaillés sur le fonctionnement, les prix, les aides financières (MaPrimeRénov', CEE, Éco-PTZ) et l'entretien des pompes à chaleur Air/Air, Air/Eau et géothermiques. Couverture nationale : plus de 35 000 communes en France métropolitaine.
