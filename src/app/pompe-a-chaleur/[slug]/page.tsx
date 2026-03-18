@@ -25,9 +25,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     return generateCityMetadata(city);
 }
 
-// Only pre-render top cities at build time; rest rendered on-demand via ISR
+// Force dynamic rendering so Cloudflare can cache at the edge
+export const dynamic = 'force-dynamic';
 export const dynamicParams = true;
-export const revalidate = 86400; // 24h ISR
 
 export async function generateStaticParams() {
     // Pre-render only top 200 cities by population to stay under Vercel 80MB limit
