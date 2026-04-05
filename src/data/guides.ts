@@ -305,4 +305,220 @@ export const guides: Guide[] = [
 <li>Pour dimensionner votre projet et obtenir le meilleur prix, <a href="/devis">comparez les devis</a> d'installateurs RGE certifiés</li>
 </ul>`
 },
+{
+  id: 51,
+  title: "Prix d'une pompe à chaleur géothermique : budget complet en 2026",
+  slug: "prix-pompe-a-chaleur-geothermique",
+  metaTitle: "Prix pompe à chaleur géothermique 2026 : budget complet",
+  metaDescription: "Quel est le prix d'une pompe à chaleur géothermique en 2026 ? Capteurs, forage, aides : découvrez le budget complet pour votre projet.",
+  category: "prix" as const,
+  readTime: "12 min",
+  updatedAt: "2026-03-16",
+  excerpt: "Budget complet pour une PAC géothermique en 2026 : coût des capteurs, forage, installation, aides financières et rentabilité détaillée.",
+  heroImage: "/images/guides/prix-pompe-a-chaleur-geothermique.png",
+  heroAlt: "Installation de capteurs géothermiques dans le sol pour pompe à chaleur avec maison française en arrière-plan",
+  content: `<p>Le <strong>prix d'une pompe à chaleur géothermique</strong> représente un investissement conséquent — entre 15 000 € et 45 000 € selon la technologie de captage — mais c'est aussi la solution de chauffage la plus performante et la plus stable du marché. En puisant les calories directement dans le sol, où la température reste constante entre 10 et 15 °C toute l'année, la PAC géothermique offre un COP saisonnier supérieur à celui des PAC aérothermiques, indépendamment des conditions météo extérieures.</p>
+<p>Avant de vous lancer, il est essentiel de comprendre les différents postes de dépenses qui composent le budget global. Ce guide détaille chaque coût, les aides mobilisables en 2026 et la rentabilité réelle de cet investissement sur le long terme.</p>
+
+<h2>Combien coûte une pompe à chaleur géothermique en 2026 ?</h2>
+<p>Le <strong>prix d'une pompe à chaleur géothermique</strong> dépend principalement du type de captage choisi (horizontal, vertical ou sur nappe phréatique), de la puissance nécessaire et de la nature du terrain. Voici les fourchettes de prix constatées en France en 2026, installation par un artisan RGE comprise.</p>
+
+<h3>Les trois technologies de captage et leurs coûts</h3>
+<table>
+<thead>
+<tr><th>Type de captage</th><th>Prix fourni-posé</th><th>Surface terrain requise</th><th>Profondeur</th><th>COP moyen</th></tr>
+</thead>
+<tbody>
+<tr><td>Capteurs horizontaux</td><td>15 000 € à 25 000 €</td><td>1,5 à 2 fois la surface habitable</td><td>0,60 m à 1,20 m</td><td>4,0 à 4,5</td></tr>
+<tr><td>Sondes verticales (forage)</td><td>25 000 € à 45 000 €</td><td>Faible (quelques m²)</td><td>80 m à 200 m</td><td>4,5 à 5,5</td></tr>
+<tr><td>PAC eau/eau (nappe phréatique)</td><td>20 000 € à 35 000 €</td><td>Faible (2 forages)</td><td>10 m à 50 m</td><td>5,0 à 6,0</td></tr>
+</tbody>
+</table>
+<p><em>Prix indicatifs constatés en France métropolitaine, main-d'œuvre et fourniture incluses, avant déduction des aides. Sources : données ADEME, BRGM et retours d'installateurs RGE 2025-2026.</em></p>
+
+<h2>Détail des postes de dépenses pour estimer votre budget géothermique</h2>
+<p>Le coût total d'une installation géothermique ne se résume pas au prix de la PAC elle-même. Plusieurs postes s'additionnent et il est important de tous les anticiper pour éviter les mauvaises surprises.</p>
+
+<h3>Le coût de la PAC géothermique (machine seule)</h3>
+<p>La pompe à chaleur géothermique en elle-même — le module intérieur avec compresseur, échangeur et régulation — coûte entre <strong>6 000 € et 12 000 €</strong> selon la puissance (6 à 18 kW) et la marque. Les modèles premium de <a href="/marques/atlantic">Atlantic</a> (gamme Loria Duo) ou de fabricants spécialisés comme Viessmann (Vitocal 333-G) se situent dans la fourchette haute, mais offrent des COP supérieurs et une durée de vie allongée.</p>
+
+<h3>Le coût du captage : le poste le plus variable</h3>
+<p>C'est le poste qui fait la différence entre les trois technologies :</p>
+<ul>
+<li><strong>Capteurs horizontaux</strong> : 30 € à 50 €/m² de terrain décaissé. Pour une maison de 120 m², comptez entre 4 000 € et 10 000 € de terrassement. Nécessite un jardin de 180 à 240 m² minimum, sans arbres ni piscine au-dessus.</li>
+<li><strong>Sondes verticales (forage géothermique)</strong> : 50 € à 100 € par mètre linéaire de forage. Deux forages de 100 m reviennent à 10 000 € à 20 000 €. Requiert une étude de sol préalable et une déclaration en mairie (ou autorisation DRIEAT en Île-de-France).</li>
+<li><strong>Captage sur nappe phréatique</strong> : 2 forages (aspiration + réinjection) coûtent 5 000 € à 12 000 €. Un hydrogéologue doit valider la présence, le débit et la qualité de la nappe. Une autorisation administrative est obligatoire (déclaration ou autorisation au titre du Code de l'environnement).</li>
+</ul>
+
+<h3>Les coûts annexes à ne pas oublier</h3>
+<table>
+<thead>
+<tr><th>Poste</th><th>Coût estimé</th><th>Remarque</th></tr>
+</thead>
+<tbody>
+<tr><td>Étude de sol / étude géologique</td><td>500 € à 2 000 €</td><td>Obligatoire pour forage vertical</td></tr>
+<tr><td>Raccordement au réseau de chauffage</td><td>1 000 € à 3 000 €</td><td>Selon compatibilité radiateurs/plancher</td></tr>
+<tr><td>Ballon ECS (eau chaude sanitaire)</td><td>800 € à 2 000 €</td><td>Optionnel si chauffe-eau existant</td></tr>
+<tr><td>Mise en service et réglages</td><td>500 € à 1 000 €</td><td>Incluse chez la plupart des installateurs</td></tr>
+<tr><td>Démarches administratives</td><td>0 € à 500 €</td><td>Déclaration mairie / DRIEAT selon cas</td></tr>
+</tbody>
+</table>
+
+<h2>Quelles aides financières pour réduire le prix d'une PAC géothermique ?</h2>
+<p>La bonne nouvelle : la pompe à chaleur géothermique bénéficie des <strong>aides financières les plus élevées</strong> tous types de PAC confondus. L'État français encourage fortement cette technologie en raison de son rendement exceptionnel et de son faible impact carbone.</p>
+
+<h3>MaPrimeRénov' 2026 pour la géothermie</h3>
+<p>Les montants <a href="/guides/maprimenov-pompe-a-chaleur">MaPrimeRénov'</a> pour une PAC géothermique sont les plus généreux du dispositif :</p>
+<table>
+<thead>
+<tr><th>Catégorie de revenus</th><th>Montant MaPrimeRénov'</th><th>Prime CEE cumulable</th><th>Total aides estimé</th></tr>
+</thead>
+<tbody>
+<tr><td>Très modestes (Bleu)</td><td>11 000 €</td><td>4 000 € à 5 000 €</td><td>15 000 € à 16 000 €</td></tr>
+<tr><td>Modestes (Jaune)</td><td>9 000 €</td><td>3 500 € à 5 000 €</td><td>12 500 € à 14 000 €</td></tr>
+<tr><td>Intermédiaires (Violet)</td><td>6 000 €</td><td>2 500 € à 4 000 €</td><td>8 500 € à 10 000 €</td></tr>
+<tr><td>Supérieurs (Rose)</td><td>Non éligible</td><td>2 500 € à 4 000 €</td><td>2 500 € à 4 000 €</td></tr>
+</tbody>
+</table>
+<p><em>Montants indicatifs 2026, cumulables avec l'éco-PTZ (jusqu'à 50 000 € à taux zéro) et la TVA réduite à 5,5 %. Source : ANAH, barèmes en vigueur.</em></p>
+
+<h3>Aides complémentaires</h3>
+<ul>
+<li><strong>Éco-prêt à taux zéro (éco-PTZ)</strong> : financement jusqu'à 50 000 € sans intérêts, remboursable sur 20 ans</li>
+<li><strong>TVA réduite à 5,5 %</strong> : applicable sur l'ensemble des travaux (matériel + main-d'œuvre) pour les logements de plus de 2 ans</li>
+<li><strong>Aides locales</strong> : certaines régions, départements ou communes proposent des compléments (Île-de-France, Grand Est, Auvergne-Rhône-Alpes notamment). Consultez notre <a href="/annuaire">annuaire</a> pour identifier les dispositifs de votre zone</li>
+<li><strong>Chèque énergie</strong> : 48 € à 277 € selon revenus, utilisable pour le reste à charge</li>
+</ul>
+
+<h3>Exemple concret de budget après aides</h3>
+<p>Prenons l'exemple d'une maison de 130 m² en zone H2 (Bretagne), remplaçant une chaudière fioul par une PAC géothermique à capteurs horizontaux. Budget avant aides : <strong>22 000 €</strong>. Pour un ménage aux revenus modestes (catégorie Jaune) :</p>
+<ul>
+<li>MaPrimeRénov' : – 9 000 €</li>
+<li>Prime CEE : – 4 000 €</li>
+<li>TVA à 5,5 % (au lieu de 20 %) : – 2 900 € d'économie sur la TVA</li>
+<li><strong>Reste à charge estimé : environ 6 100 €</strong></li>
+</ul>
+<p>Ce reste à charge peut être intégralement financé via un éco-PTZ, soit <strong>0 € d'avance de trésorerie</strong>. Pour estimer le budget précis de votre projet, <a href="/devis">comparez les devis d'installateurs certifiés</a> dans votre département.</p>
+
+<h2>PAC géothermique vs PAC air/eau : quel surcoût et quels gains ?</h2>
+<p>La question du <strong>prix de la pompe à chaleur géothermique</strong> se pose souvent en comparaison avec la PAC air/eau, nettement moins chère à l'achat. Voici un comparatif objectif pour une maison de 120 m² en zone H2 :</p>
+<table>
+<thead>
+<tr><th>Critère</th><th>PAC Géothermique (capteurs horizontaux)</th><th>PAC Air/Eau</th></tr>
+</thead>
+<tbody>
+<tr><td>Prix fourni-posé</td><td>20 000 € à 25 000 €</td><td>10 000 € à 16 000 €</td></tr>
+<tr><td>Aides maximales cumulées</td><td>13 000 € à 16 000 €</td><td>7 000 € à 9 000 €</td></tr>
+<tr><td>Reste à charge minimum</td><td>6 000 € à 9 000 €</td><td>4 000 € à 7 000 €</td></tr>
+<tr><td>COP saisonnier réel</td><td>4,0 à 4,5</td><td>3,0 à 3,8</td></tr>
+<tr><td>Facture chauffage annuelle (120 m²)</td><td>400 € à 650 €</td><td>600 € à 1 000 €</td></tr>
+<tr><td>Économie annuelle vs fioul</td><td>1 500 € à 2 200 €</td><td>900 € à 1 500 €</td></tr>
+<tr><td>Durée de vie</td><td>20 à 25 ans (capteurs : 50 ans)</td><td>15 à 20 ans</td></tr>
+<tr><td>Bruit extérieur</td><td>Aucun (pas d'unité extérieure)</td><td>35 à 45 dB(A)</td></tr>
+<tr><td>Dépendance météo</td><td>Aucune</td><td>COP baisse sous -5 °C</td></tr>
+</tbody>
+</table>
+<p>Le surcoût de la géothermie (2 000 € à 5 000 € de reste à charge supplémentaire) est compensé par des économies annuelles supérieures de 400 € à 700 €, une durée de vie plus longue et l'absence totale de nuisance sonore. Pour comprendre les prix détaillés de l'alternative air/eau, consultez notre <a href="/guides/prix-pompe-a-chaleur">guide prix PAC</a>.</p>
+
+<h2>Rentabilité d'une PAC géothermique : en combien d'années amortit-on l'investissement ?</h2>
+<p>La rentabilité d'une <strong>pompe à chaleur géothermique</strong> dépend de votre ancien mode de chauffage, de l'isolation de votre logement et des aides perçues. En remplacement d'une chaudière fioul (le cas le plus fréquent en géothermie), les économies annuelles sont spectaculaires.</p>
+
+<h3>Simulation de retour sur investissement</h3>
+<table>
+<thead>
+<tr><th>Ancien chauffage</th><th>Économie annuelle</th><th>Reste à charge après aides</th><th>ROI estimé</th></tr>
+</thead>
+<tbody>
+<tr><td>Chaudière fioul</td><td>1 500 € à 2 200 €/an</td><td>6 000 € à 12 000 €</td><td>3 à 7 ans</td></tr>
+<tr><td>Chaudière gaz</td><td>800 € à 1 300 €/an</td><td>6 000 € à 12 000 €</td><td>6 à 12 ans</td></tr>
+<tr><td>Radiateurs électriques</td><td>1 200 € à 1 800 €/an</td><td>6 000 € à 12 000 €</td><td>4 à 8 ans</td></tr>
+</tbody>
+</table>
+<p><em>Estimations pour une maison de 120 m² moyennement isolée. Économies calculées sur la base des prix de l'énergie 2026 (fioul : 1,15 €/L, gaz : 0,12 €/kWh, électricité : 0,25 €/kWh). Sources : ADEME, Ministère de la Transition Écologique.</em></p>
+
+<p>À ces économies directes s'ajoute la <strong>plus-value immobilière</strong> : l'installation d'une PAC géothermique fait gagner 1 à 3 classes sur le DPE (Diagnostic de Performance Énergétique), ce qui représente en moyenne une valorisation de 5 à 15 % du prix du bien selon les données des Notaires de France. Consultez notre <a href="/guides/fonctionnement-pompe-a-chaleur">guide du fonctionnement</a> pour comprendre pourquoi le COP géothermique est si stable.</p>
+
+<h2>Comment choisir entre capteurs horizontaux et forage vertical ?</h2>
+<p>Le choix du type de captage est la décision technique la plus importante, car elle conditionne le <strong>prix total de votre pompe à chaleur géothermique</strong>. Voici les critères à prendre en compte :</p>
+
+<h3>Capteurs horizontaux : la solution la plus économique</h3>
+<ul>
+<li><strong>Coût</strong> : 15 000 € à 25 000 € tout compris — c'est la géothermie la plus accessible</li>
+<li><strong>Condition</strong> : disposer d'un terrain plat d'au moins 1,5 à 2 fois la surface habitable, sans arbres à grandes racines</li>
+<li><strong>Installation</strong> : terrassement sur 60 cm à 1,20 m de profondeur. Prévoir 2 à 4 jours de chantier supplémentaires pour la pose des capteurs</li>
+<li><strong>Limite</strong> : après la pose, le terrain ne pourra plus accueillir de construction, de piscine enterrée ni d'arbres à racines profondes au-dessus des capteurs</li>
+</ul>
+
+<h3>Sondes verticales : la performance maximale sur petit terrain</h3>
+<ul>
+<li><strong>Coût</strong> : 25 000 € à 45 000 € — le forage représente 40 à 50 % du budget total</li>
+<li><strong>Condition</strong> : un accès pour la foreuse (largeur 3 m minimum). Étude de sol obligatoire (500 € à 2 000 €)</li>
+<li><strong>Avantage</strong> : emprise au sol minimale, COP le plus élevé (4,5 à 5,5), aucune contrainte sur l'usage ultérieur du jardin</li>
+<li><strong>Réglementation</strong> : déclaration en mairie obligatoire. Pour un forage de plus de 10 m, déclaration au titre du Code minier. En zone protégée, autorisation DRIEAT</li>
+</ul>
+
+<h3>PAC eau/eau sur nappe phréatique : le meilleur COP</h3>
+<ul>
+<li><strong>Coût</strong> : 20 000 € à 35 000 € — moins cher que le forage vertical si la nappe est peu profonde</li>
+<li><strong>Condition</strong> : présence d'une nappe phréatique exploitable (débit ≥ 2 m³/h, température ≥ 8 °C). Un hydrogéologue agréé doit valider la faisabilité</li>
+<li><strong>Avantage</strong> : COP record (jusqu'à 6), très faible consommation électrique</li>
+<li><strong>Limite</strong> : soumise à autorisation administrative (déclaration ou autorisation selon le débit prélevé). Risque de colmatage du forage de réinjection si l'eau est chargée en fer ou calcaire</li>
+</ul>
+<p>Pour un conseil personnalisé sur la technologie adaptée à votre terrain, <a href="/devis">demandez vos devis gratuits</a> : les installateurs certifiés se déplacent pour évaluer la faisabilité avant tout engagement.</p>
+
+<h2>Quelles marques de PAC géothermiques sont recommandées en 2026 ?</h2>
+<p>Le marché de la <strong>pompe à chaleur géothermique</strong> en France est dominé par quelques fabricants spécialisés. Voici les marques les plus recommandées par les installateurs RGE :</p>
+<ul>
+<li><strong><a href="/marques/atlantic">Atlantic</a> (Loria Duo)</strong> : fabrication française (La Roche-sur-Yon), COP jusqu'à 4,8, intégration ECS. C'est le modèle géothermique le plus vendu en France. Prix : 18 000 € à 25 000 €</li>
+<li><strong>Viessmann (Vitocal 333-G)</strong> : technologie allemande, fluide R290 naturel, connectée. Excellente fiabilité (taux de panne &lt; 2 % sur 5 ans). Prix : 20 000 € à 30 000 €</li>
+<li><strong>NIBE (F1155/F1255)</strong> : fabricant suédois spécialiste de la géothermie, gamme très large de 6 à 16 kW, compresseur inverter silencieux. Prix : 15 000 € à 22 000 €</li>
+<li><strong>Stiebel Eltron (WPF/WPE)</strong> : fiabilité allemande, COP élevé, garantie constructeur 5 ans. Prix : 18 000 € à 28 000 €</li>
+<li><strong><a href="/marques/daikin">Daikin</a> (Altherma 3 GEO)</strong> : le géant japonais propose aussi une gamme géothermique, avec l'avantage de son réseau SAV très dense en France. Prix : 20 000 € à 28 000 €</li>
+</ul>
+<p>Pour un classement complet et actualisé de toutes les marques, consultez notre <a href="/guides/meilleure-pompe-a-chaleur">top 10 des meilleures PAC 2026</a>.</p>
+
+<h2>Déroulement et durée d'un chantier géothermique</h2>
+<p>L'installation d'une PAC géothermique est plus longue et complexe que celle d'une PAC aérothermique. Voici les étapes et les durées indicatives :</p>
+<ul>
+<li><strong>Étude de sol et dimensionnement</strong> (2 à 4 semaines avant le chantier) : analyse géologique, calcul des besoins de chauffage, choix du type de captage</li>
+<li><strong>Démarches administratives</strong> (2 à 8 semaines) : déclaration en mairie, autorisation de forage si nécessaire, dépôt du dossier MaPrimeRénov'</li>
+<li><strong>Terrassement ou forage</strong> (2 à 5 jours) : pose des capteurs horizontaux ou réalisation des forages verticaux par une entreprise spécialisée certifiée QualiForage</li>
+<li><strong>Pose de la PAC et raccordement</strong> (2 à 3 jours) : installation du module intérieur, raccordement au réseau de chauffage, liaison avec les capteurs</li>
+<li><strong>Mise en service</strong> (1 jour) : tests d'étanchéité, remplissage du circuit, paramétrage de la régulation, remise des documents</li>
+</ul>
+<p>Au total, comptez <strong>2 à 4 mois</strong> entre la signature du devis et la mise en service, contre 2 à 4 semaines pour une PAC air/eau. Ce délai supplémentaire est principalement dû aux démarches administratives et à la planification du forage. Pour connaître le déroulement détaillé d'un chantier, consultez notre <a href="/guides/installation-pompe-a-chaleur-etapes">guide d'installation PAC</a>.</p>
+
+<h2>Entretien et durée de vie : un investissement qui dure</h2>
+<p>L'un des arguments majeurs en faveur de la géothermie est sa longévité exceptionnelle :</p>
+<ul>
+<li><strong>Durée de vie de la PAC</strong> : 20 à 25 ans (contre 15 à 20 ans pour une PAC air/eau), grâce à l'absence de cycles de dégivrage et à un fonctionnement plus régulier du compresseur</li>
+<li><strong>Durée de vie des capteurs</strong> : 50 ans et plus pour les capteurs horizontaux ou les sondes verticales — ils survivent à plusieurs générations de PAC</li>
+<li><strong>Coût d'entretien</strong> : 150 € à 300 € par an (contrat de maintenance). L'<a href="/guides/entretien-pompe-a-chaleur-obligations">entretien est obligatoire tous les 2 ans</a> pour les PAC de 4 à 70 kW (décret du 28 juillet 2020)</li>
+<li><strong>Pas d'unité extérieure</strong> : pas de bruit, pas de dégivrage, pas de nettoyage du ventilateur extérieur — l'entretien est plus simple que pour une PAC aérothermique</li>
+</ul>
+<p>Sur 25 ans d'utilisation, le coût total de possession (achat + entretien + énergie) d'une PAC géothermique est souvent inférieur à celui d'une PAC air/eau, malgré un investissement initial supérieur. Selon l'ADEME, le coût global sur 20 ans d'une PAC géothermique est 15 à 25 % inférieur à celui d'une PAC air/eau en zone H1 (climat froid).</p>
+
+<h2>Conseils pratiques pour optimiser votre budget géothermique</h2>
+<p>Pour maîtriser le <strong>prix de votre pompe à chaleur géothermique</strong> et maximiser votre rentabilité, suivez ces recommandations d'experts :</p>
+<ul>
+<li><strong>Comparez au moins 3 devis</strong> d'installateurs RGE certifiés QualiForage. Les écarts de prix pour un même projet peuvent atteindre 30 à 40 %. Pour comparer les devis d'installateurs certifiés dans votre département, utilisez notre <a href="/devis">comparateur gratuit</a></li>
+<li><strong>Isolez avant d'installer</strong> : une maison bien isolée nécessite une PAC moins puissante, donc moins chère. L'ADEME recommande de toujours traiter l'isolation (toiture, murs, fenêtres) avant le chauffage</li>
+<li><strong>Privilégiez les capteurs horizontaux</strong> si vous disposez du terrain suffisant : le surcoût du forage vertical (10 000 € à 20 000 €) n'est justifié que si le terrain est trop petit</li>
+<li><strong>Anticipez les démarches administratives</strong> : les autorisations de forage peuvent prendre 2 à 3 mois. Lancez-les dès la signature du devis</li>
+<li><strong>Vérifiez la certification QualiForage</strong> : en plus du RGE, l'installateur qui réalise le forage doit détenir cette qualification spécifique. C'est une garantie de qualité et une condition pour certaines aides</li>
+<li><strong>Cumulez toutes les aides disponibles</strong> : MaPrimeRénov' + CEE + éco-PTZ + TVA 5,5 % + aides locales. Le cumul peut couvrir 50 à 80 % du coût total selon vos revenus</li>
+<li><strong>Optez pour un ballon ECS intégré</strong> : les modèles « duo » (chauffage + eau chaude) coûtent 800 € à 1 500 € de plus mais suppriment le besoin d'un chauffe-eau séparé</li>
+</ul>
+<p>Pour toute question technique sur votre projet, notre <a href="/faq">FAQ</a> répond aux interrogations les plus fréquentes sur la géothermie.</p>
+
+<h2>Ce qu'il faut retenir</h2>
+<ul>
+<li>Le <strong>prix d'une pompe à chaleur géothermique</strong> varie de 15 000 € (capteurs horizontaux) à 45 000 € (forage vertical profond) en 2026</li>
+<li>Les aides cumulées (MaPrimeRénov' + CEE + éco-PTZ + TVA 5,5 %) peuvent couvrir 50 à 80 % du budget, réduisant le reste à charge à 6 000 – 12 000 €</li>
+<li>Le COP saisonnier de 4,0 à 5,5 en fait la technologie de chauffage la plus efficace, avec des économies annuelles de 1 200 € à 2 200 €</li>
+<li>Le retour sur investissement se situe entre 3 et 8 ans en remplacement d'une chaudière fioul</li>
+<li>La durée de vie atteint 20 à 25 ans pour la PAC et 50 ans pour les capteurs enterrés</li>
+<li>Comparez au minimum 3 devis pour optimiser votre budget : <a href="/devis">demandez vos devis gratuits</a> d'installateurs RGE certifiés</li>
+</ul>`
+},
 ];
